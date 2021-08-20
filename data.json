@@ -9,25 +9,20 @@
       "title": "Nasdaq 100"
     },
     {
-      "proName": "TSX:TSX",
-      "title": "S&P/TSX Composite"
+      "proName": "FX_IDC:EURUSD",
+      "title": "EUR/USD"
     },
     {
-      "description": "BTC",
-      "proName": "CAPITALCOM:BTCCAD"
+      "proName": "BITSTAMP:BTCUSD",
+      "title": "BTC/USD"
     },
     {
-      "description": "ETH",
-      "proName": "CAPITALCOM:ETHCAD"
-    },
-    {
-      "description": "USD/CAD",
-      "proName": "FX:USDCAD"
+      "proName": "BITSTAMP:ETHUSD",
+      "title": "ETH/USD"
     }
   ],
-  "showSymbolLogo": true,
   "colorTheme": "light",
   "isTransparent": true,
-  "displayMode": "regular",
+  "showSymbolLogo": true,
   "locale": "en"
 }
